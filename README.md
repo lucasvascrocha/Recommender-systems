@@ -8,4 +8,4 @@ Projeto de Sistema de recomendação por similaridade ( recomendação de filmes
 
 # Sobre o desenvolvimento
 
-Foram utilizados arquivos disponibilizados pelo Kaggle. O código foi desenvolvido em python e apresentado em jupyter notebook!
+Foram utilizados arquivos disponibilizados pelo Kaggle. O código foi desenvolvido em python e apresentado em jupyter notebook.
